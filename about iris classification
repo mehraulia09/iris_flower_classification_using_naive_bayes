@@ -1,0 +1,1 @@
+Gaussian Naive Bayes algorithm has been used in this paper along with python to classify the species of an Iris flower. An accuracy has been achieved of about 95% which shows that Gaussian Naïve Bayes algorithm is efficient for supervised learning based classification.
